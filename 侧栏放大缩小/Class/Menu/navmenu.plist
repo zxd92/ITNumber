@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>className</key>
+		<string>XGNewsViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_news</string>
+		<key>New item</key>
+		<string></string>
+		<key>title</key>
+		<string>新闻</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>XGReadingViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_reading</string>
+		<key>title</key>
+		<string>订阅</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>XGPhotoViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_photo</string>
+		<key>title</key>
+		<string>图片</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>XGCommentViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_comment</string>
+		<key>title</key>
+		<string>跟帖</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>XGVoteViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_vote</string>
+		<key>title</key>
+		<string>投票</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>XGAudioViewController</string>
+		<key>imageName</key>
+		<string>sidebar_nav_audio</string>
+		<key>title</key>
+		<string>听新闻</string>
+	</dict>
+</array>
+</plist>
